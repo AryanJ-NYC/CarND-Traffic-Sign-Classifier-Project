@@ -26,7 +26,7 @@ I created a bar chart illustrating the frequency of each sign in the training da
 
 Please refer to the labels lookup table below for y-axis tick values.
 
-| *Sign ID* |                     *Sign Name*                    | *Counts* |
+| *Sign ID* |                     *Sign Name*                    | *Count*  |
 |:---------:|:--------------------------------------------------:|:--------:|
 | 0         | Speed limit (20km/h)                               | 180      |
 | 1         | Speed limit (30km/h)                               | 1980     |
